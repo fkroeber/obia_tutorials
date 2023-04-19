@@ -5,7 +5,7 @@
 
 | notebook | link | description |
 | :-------- | -------  | --------- |
-| `01_features.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fkroeber/obia_tutorials/01_features.ipynb) | calculating various feature descriptors (spectral, spatial, textural, contextural) | 
+| `01_features.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fkroeber/blob/main/obia_tutorials/01_features.ipynb) | calculating various feature descriptors (spectral, spatial, textural, contextural) | 
 ||
 
 
