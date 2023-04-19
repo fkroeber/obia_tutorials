@@ -1,0 +1,12 @@
+Diese Datei wurde mit TIM-online erstellt.
+Produkt: Digitale Orthophotos Farbe (RGB)
+Datei: 2023-04-16-19-24-timonline.txt
+Koordinatenreferenzsystem: ETRS89 / UTM zone 32N (EPSG:25832)
+Format: *.tiff (georeferenziert)
+Kacheln: 32354_5654
+Datum: 2023-04-16-19-24
+
+Diese Daten stehen unter der Datenlizenz Deutschland – Zero – Version 2.0, jede Nutzung ist ohne Einschränkungen oder Bedingungen zulässig. Informationen dazu finden Sie hier:
+http://www.bezreg-koeln.nrw.de/brk_internet/geobasis/lizenzbedingungen_geobasis_nrw.pdf
+
+dop10rgb_32_354_5654_1_nw_2021; https://www.wcs.nrw.de/geobasis/wcs_nw_dop?REQUEST=GetCoverage&SERVICE=WCS&VERSION=2.0.1&COVERAGEID=nw_dop&FORMAT=image/tiff&SUBSET=x(354000,355000)&SUBSET=y(5654000,5655000)&RANGESUBSET=1,2,3&OUTFILE=dop10rgb_32_354_5654_1_nw_2021&APP=timonline
