@@ -6,8 +6,7 @@
 | notebook | link | description |
 | :-------- | -------  | --------- |
 | `01_segmentation.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fkroeber/obia_tutorials/blob/main/01_segmentation.ipynb) | investigating different segmentation algorithms | 
-| `02_features.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fkroeber/obia_tutorials/blob/main/02_features.ipynb) | calculating various feature descriptors (spectral, spatial, textural, contextural) | 
-||
+| `02_features.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fkroeber/obia_tutorials/blob/main/02_features.ipynb) | calculating various feature descriptors (spectral, spatial, textural, contextual) |
 
 
 
@@ -22,6 +21,6 @@ This repo is meant to be a small collection of scripts to showcase how basic obj
 
 For demonstration purposes the following data is used:
 
-A 4-channel orthophoto (R,G,B,NIR) with 10cm ground spacing acquired in North-Rhine Westphalia 2021. 2 smaller subsets out of the original 10.000 X 10.000 pixels orthophoto were formed. The data license permits the re-use and distribution without restrictions and conditions.
+A 4-channel orthophoto (R,G,B,NIR) with 10cm ground spacing acquired in North-Rhine Westphalia 2021. Two smaller subsets out of the original 10.000 x 10.000 pixels orthophoto were formed. The data license permits the re-use and distribution without restrictions and conditions.
 
 <img src="sample_data/ortho_overview.png" width="100%">
