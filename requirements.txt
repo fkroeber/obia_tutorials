@@ -3,6 +3,7 @@ ipython-genutils==0.2.0
 mahotas==1.4.13
 matplotlib==3.7.1
 nbformat==5.8.0
+numpy==1.24.4
 plotly==5.14.1
 rioxarray==0.14.1
 scikit-image==0.20.0
