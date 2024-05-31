@@ -14,8 +14,9 @@
 
 This repo is meant to be a small collection of scripts to showcase how basic object-based image analyses (OBIA) can be performed with standard python libraries. Whereas Trimble eCognition offers the full suite of OBIA algorithms in a proprietary software environment, open source possibilities for OBIA are generally more limited. Still, basic workflows can be realized in python. Besides the obvious advantage of saving on royalties, they can be useful for the following reasons:
 1. Easier integration into larger workflows -> when the focus isn't a complex OBIA workflow itself but a rather basic segmentation or some object features needed as interim products in a processing pipeline that otherwise can be realized in python (e.g. machine learning based land cover classification)
-2. Enhanced reproducibility -> Whereas repeatability (i.e. obtaining the same results under same conditions by the same people) is also given for processing workflows realized with proprietary software, replicability and reproducibility (aiming at the cross-checking of results by others) is facilitated by relying on open source implementations.           
+2. Automation -> The flexibility offered by the variety of libraries together along the option to create custom functions allows to automate basically any process, which may be difficult to automate in other, closed-source software environments   
 3. Efficiency -> Although not always the case, the flexibility of multicore processing with thread parallelization can actually lead to a more performant workflow.
+4. Enhanced reproducibility -> Whereas repeatability (i.e. obtaining the same results under same conditions by the same people) is also given for processing workflows realized with proprietary software, replicability and reproducibility (aiming at the cross-checking of results by others) is facilitated by relying on open source implementations.           
 
 ## Sample Data
 
