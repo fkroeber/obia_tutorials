@@ -6,7 +6,7 @@
 | notebook | link (exercise) | link (solution) | description |
 | :-------- | -----  | ----- | --------- |
 | `01_segmentation.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fkroeber/obia_tutorials/blob/main/01_segmentation_exercise.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fkroeber/obia_tutorials/blob/main/01_segmentation.ipynb) | investigating different segmentation algorithms | 
-| `02_features.ipynb` | | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fkroeber/obia_tutorials/blob/main/02_features.ipynb) | calculating various feature descriptors (spectral, spatial, textural, contextual) |
+| `02_features.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fkroeber/obia_tutorials/blob/main/02_features_exercise.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fkroeber/obia_tutorials/blob/main/02_features.ipynb) | calculating various feature descriptors (spectral, spatial, textural, contextual) |
 
 
 
